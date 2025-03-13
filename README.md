@@ -17,7 +17,7 @@
 **1. First step**
 
 <p align="left">
-<a href='https://github.com/kingmalvn/NICK-MD/fork' target="_blank"><img alt='Fork Repo' src='https://img.shields.io/badge/-Fork Repo-blue?style=for-the-badge&logo=github&logoColor=white'/< width=115 height=28/p></a>
+<a href='https://github.com/monjan-nick/NICK-MD/fork' target="_blank"><img alt='Fork Repo' src='https://img.shields.io/badge/-Fork Repo-blue?style=for-the-badge&logo=github&logoColor=white'/< width=115 height=28/p></a>
    
 **2. Second Step**
 
@@ -30,12 +30,12 @@
 	 
 1.  #### DEPLOY IN REPLIT
 
-   <a href='https://repl.it/github/sadiyamin/Lara-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
+   <a href='https://repl.it/github/sadiyamin/Nick-Md' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 --------
 3.  #### DEPLOY IN KOYEB
 
-<a href='https://app.koyeb.com/services/deploy?type=git&repository=https://github.com/kingmalvn/NICK-MD&branch=main&name=lord-xmd&builder=dockerfile&env[OWNER_NUMBER]=263714757857%3B%E2%9D%A3%EF%B8%8F&env[MODE]=public&env[PREFIX]=&env[antidelete]=false&env[ANTI_LINK]=false&env[AUTO_STICKER]=false&env[AUTO_VOICE]=false&env[AUTO_REPLY]=false&env[STATUSLIKES]=true&env[ALIVE_MSG]=LORDX+IS+ONLINE&env[BOT_NAME]=LORD-XMD&env[HEART_REACT]=true%F0%9F%8E%97%EF%B8%8F%E2%9D%A3%EF%B8%8F&env[ANTI_BAD]=false&env[AUTO_READ_STATUS]=false&env[AutoReaction]=false&env[SESSION_ID]=' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-KOYEB-blue?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+<a href='https://app.koyeb.com/services/deploy?type=git&repository=https://github.com/monjan-nick/NICK-MD&branch=main&name=lord-xmd&builder=dockerfile&env[OWNER_NUMBER]=263714757857%3B%E2%9D%A3%EF%B8%8F&env[MODE]=public&env[PREFIX]=&env[antidelete]=false&env[ANTI_LINK]=false&env[AUTO_STICKER]=false&env[AUTO_VOICE]=false&env[AUTO_REPLY]=false&env[STATUSLIKES]=true&env[ALIVE_MSG]=LORDX+IS+ONLINE&env[BOT_NAME]=LORD-XMD&env[HEART_REACT]=true%F0%9F%8E%97%EF%B8%8F%E2%9D%A3%EF%B8%8F&env[ANTI_BAD]=false&env[AUTO_READ_STATUS]=false&env[AutoReaction]=false&env[SESSION_ID]=' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-KOYEB-blue?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
 
 
 --------
