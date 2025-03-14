@@ -20,8 +20,8 @@
 <a href='https://github.com/monjan-nick/NICK-MD/fork' target="_blank"><img alt='Fork Repo' src='https://img.shields.io/badge/-Fork Repo-blue?style=for-the-badge&logo=github&logoColor=white'/< width=115 height=28/p></a>
    
 **Server 1**  
-<a href='https://https-x-bot-md-qr-2.onrender.com' target="_blank">
-    <img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/>
+<a href='https://nick-md-session.onrender.com' target="_blank">
+    <img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=red&color=red'/>
 </a>
 
 
