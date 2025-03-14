@@ -19,10 +19,10 @@
 <p align="left">
 <a href='https://github.com/monjan-nick/NICK-MD/fork' target="_blank"><img alt='Fork Repo' src='https://img.shields.io/badge/-Fork Repo-blue?style=for-the-badge&logo=github&logoColor=white'/< width=115 height=28/p></a>
    
-**2. Second Step**
-
-<p align="left">
-<a href='https://sahas-md-pair-web-ibx9.onrender.com/' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Pair Code-blue?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
+**Server 1**  
+<a href='https://https-x-bot-md-qr-2.onrender.com' target="_blank">
+    <img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/>
+</a>
 
 
 
